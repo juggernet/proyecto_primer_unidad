@@ -9,7 +9,7 @@ https://github.com/creativetimofficial/material-dashboard
 # Entrar a pagina web
 Para entrar a la pagina web se usa localhost:8082 en un navegador web 
 # Ingresar login en pagina
-En este lugar se pide usuario y contraseña, los cuales son; usario:admin contraseñ:admin
+En este lugar se pide usuario y contraseña, los cuales son; usuario:admin contraseñ:admin
 # PhpMyadmin
 para ingresar a phpmyadmin es localhost:8088 en una navegador web
 # Usuario y contraseña de phpmyadmin
