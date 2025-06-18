@@ -13,4 +13,4 @@ En este lugar se pide usuario y contraseña, los cuales son; usuario:admin contr
 # PhpMyadmin
 para ingresar a phpmyadmin es localhost:8088 en una navegador web
 # Usuario y contraseña de phpmyadmin
-LA contraseña y el usuario son; usuario:root contraseña:12345
+La contraseña y el usuario son; usuario:root contraseña:12345
