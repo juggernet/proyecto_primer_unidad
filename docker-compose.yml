@@ -27,3 +27,14 @@ services:
     volumes:
       - ./mysql_data:/var/lib/mysql
       - ./:/docker-entrypoint-initdb.d  
+  phpmyadmin:
+    image: phpmyadmin:5.2.2-apache
+    container_name: phpmyadmin-container
+    depends_on:
+      - db
+    ports:
+      - "8088:80"
+    environment:
+      MYSQL_USER: root
+      MYSQL_PASSWORD: 12345
+      MYSQL_ROOT_PASSWORD: 12345
